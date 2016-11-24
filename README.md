@@ -1,2 +1,4 @@
 # hello-world
-My ideas
+My ideas.
+
+This is a file about me. I am a programmer.
